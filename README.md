@@ -1,4 +1,4 @@
-# Adopt-Me-with-React
+# Adopt-Me-with-React.
 Frontendmasters Workshop
 
 # Prettier & Eslint Config
